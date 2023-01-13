@@ -7,7 +7,7 @@ const one = ()=>{
     console.log("hiiii from branch new4");
     console.log("hiiiiiiiiii from branch new5");
     console.log("hiiiii from branch new6")
-
+    console.log("hiiiiiiii from branch new7")
 }
 
 module.exports = {one}
