@@ -12,6 +12,7 @@ const one = ()=>{
     console.log("hiiiiiiiiiiii from branch new10");
     console.log("hiiiiiiiiiiiiii from branch new11");
     console.log("hiii just for check");
+    console.log("hiiiiiiiiiiiiiiiii from branch new12");
 }
 
 module.exports = {one}
